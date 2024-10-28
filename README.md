@@ -1,8 +1,22 @@
-# React + Vite
+## Sobre o projeto
+Este projeto é uma tela de login desenvolvida em React para iniciantes, que oferece uma interface simples e intuitiva para usuários se autenticarem em um sistema
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologias utilizadas
+- React
+- JavaScript
+- JSX
+- CSS
 
-Currently, two official plugins are available:
+## Como executar
+```bash
+# clonar repositório
+git clone https://github.com/NicoleZaplana/Login-em-React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Entrar na pasta
+cd login
+
+# Baixar dependências
+npm install
+
+# rodar aplicação
+npm run dev
