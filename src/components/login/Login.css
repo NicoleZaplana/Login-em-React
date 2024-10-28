@@ -1,0 +1,60 @@
+.login-container {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh;
+  
+}
+
+form{
+    margin-right: 50px;
+}
+
+
+
+.image-container img {
+    max-width: 100%; 
+    height: auto; 
+    max-height: 80vh; 
+}
+
+h1 {
+    font-size: 24px; 
+}
+
+p {
+    margin: 0 0 20px; 
+}
+
+label {
+    display: block; 
+    margin: 10px 0 5px; 
+}
+
+input {
+    width: 100%; 
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    margin-bottom: 15px; 
+}
+
+.icon {
+    position: absolute; 
+    margin-left: 230px; 
+    margin-top: -43px; 
+    color: #aaa;
+}
+
+button {
+    background-color: #00A797; 
+    color: white; 
+    border: none; 
+    padding: 10px 15px; 
+    border-radius: 4px;
+    cursor: pointer; 
+}
+
+button:hover {
+    background-color: #05c4b1; 
+}
